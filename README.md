@@ -14,4 +14,4 @@
 </br></br></br>
 <h3 align="center">Certifications:</h3>
 <p align="center">
-  <img src="ms-badge.svg" alt="Microsoft Certified Badge" width="100" />
+  <img src="ChatGPT Image Sep 8, 2025 at 10_37_26 PM.png" alt="Databricks Certified Badge" width="100" />
